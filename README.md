@@ -3,7 +3,7 @@
 Bu çalışmamda bir kayıt sayfası yapmayı amaçladım. Sade bir tasarım yaptım.  
 
 
-PROJE HAKKINDA TEKNİK BİLGİLER:
+# PROJE HAKKINDA TEKNİK BİLGİLER:
 - HTML5 kullandım.
 - CSS için Bootstrap 5.2.1 kullandım.
 - Ekleme, Silme işlemlerini JQUERY ile yazdım
