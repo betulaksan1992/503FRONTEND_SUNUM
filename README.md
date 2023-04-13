@@ -1,6 +1,6 @@
 # 503FRONTEND_SUNUM
 
-Merhaba, bu çalışma Beşiktaş Wissen Akademi'de Eğitmenlik yaptığım süreçte 503 sınıfım ile yazdık. Html Css Javascript ve Bootstrap kütüphanesine hakim olmak amacıyla sade bir tasarım çalışması yaptık. 
+Merhaba, bu çalışmayı Beşiktaş Wissen Akademi'de Eğitmenlik yaptığım süreçte 503 sınıfım ile yaptık. Html Css Javascript ve Bootstrap kütüphanesine hakim olmak amacıyla sade bir tasarım çalışması yaptık. 
 
 
 Bu çalışmanın tüm hakları ben Betül Akşan'a, 503 sabah grubu sınıfımın öğrencilerine aittir. Burada projenin ekran resimlerini ve kaynak kodlardan bazı kod parçalarını aşağıda görebilirsiniz.
