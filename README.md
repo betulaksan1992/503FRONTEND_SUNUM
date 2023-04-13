@@ -1,4 +1,4 @@
-#503FRONTEND_SUNUM
+# 503FRONTEND_SUNUM
 
 Merhaba, bu çalışma Beşiktaş Wissen Akademi'de Eğitmenlik yaptığım süreçte 503 sınıfım ile yazdık. Html Css Javascript ve Bootstrap kütüphanesine hakim olmak amacıyla sade bir tasarım çalışması yaptık. 
 
@@ -6,7 +6,7 @@ Merhaba, bu çalışma Beşiktaş Wissen Akademi'de Eğitmenlik yaptığım sür
 Bu çalışmanın tüm hakları ben Betül Akşan'a, 503 sabah grubu sınıfımın öğrencilerine aittir. Burada projenin ekran resimlerini ve kaynak kodlardan bazı kod parçalarını aşağıda görebilirsiniz.
 
 
-#PROJE HAKKINDA TEKNİK BİLGİLER:
+# PROJE HAKKINDA TEKNİK BİLGİLER:
 - HTML5 kullanıldı.
 - CSS için Bootstrap 5.2.1 kullanıldı.
 - Ekleme, Silme işlemleri JQUERY ile yazıldı.
